@@ -1,1 +1,1 @@
-# nextjs-github-pages
+Next.js Github Pages
